@@ -41,10 +41,10 @@ To get started, clone the repository and install the necessary dependencies:
 
 ```bash
 # Clone the repository
-git clone https://github.com/thisismohsinsyed/bank-fraud-detection-clustering.git
+git clone https://github.com/thisismohsinsyed/Bank-Fraud-Detection-Using-Clustering-Algorithms.git
 
 # Change directory
-cd bank-fraud-detection-clustering
+cd Bank-Fraud-Detection-Using-Clustering-Algorithms
 
 # Create a virtual environment
 python -m venv venv
